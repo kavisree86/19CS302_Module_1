@@ -21,12 +21,11 @@ return 0;
  
 }
 ```
-/*
+
 Program to initialize the value as 5.8 & display the same.
 Developed by: 
 RegisterNumber:  
-*/
-```
+
 
 ## Output:
 
